@@ -24,7 +24,7 @@ My name **Mohammad Bagus Chalil Akbar**.<br>
 
 - 📫 How to reach me: bagus.chalil@gmail.com
 
-- ⚡ Fun fact:[Linkedin](https://www.linkedin.com/in/mohammad-bagus-chalil-akbar-1797781a4/).
+- ⚡ Fun fact: [Linkedin](https://www.linkedin.com/in/mohammad-bagus-chalil-akbar-1797781a4/).
 
 <p align="left">
 <a href="https://github.com/bagus-chalil">
